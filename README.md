@@ -1,10 +1,14 @@
 ### Hi there 👋
 
-⚠️ Personal site coming soon ⚠️
-Twitter:
-Linkedin:
+⚠️ Personal site coming soon ⚠️\n
 
-Email me about Bitcoin, Lightning Network, or Nostr @ nicholas.sandomeno@gmail.com
+Twitter: [
+](https://twitter.com/NickSandomeno)\n
+
+Linkedin: [
+](https://www.linkedin.com/in/nicholas-sandomeno-5858b5125/)\n
+
+📫  me about Bitcoin, Lightning Network, or Nostr @ nicholas.sandomeno@gmail.com \n
 <!--
 **Nsandomeno/Nsandomeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
