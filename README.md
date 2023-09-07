@@ -1,10 +1,14 @@
-### 📫 Email me about Bitcoin, Lightning Network, or Nostr @ nicholas.sandomeno@gmail.com 
-⚠️ Personal site coming soon ⚠️
-
+### "Everything around you that you call life was made up by people that were no smarter than you, and you can change it, you can influence it, you can build your own things that other people can use.”
+---
+📫 ## Email me about Bitcoin, Lightning Network, or Nostr @ nicholas.sandomeno@gmail.com 
+---
+⚠️ ## Personal site coming soon ⚠️
+---
+### Socials
 [ Twitter ](https://twitter.com/NickSandomeno)
 
 [ LinkedIn ](https://www.linkedin.com/in/nicholas-sandomeno-5858b5125/)
-
+---
 
 <!--
 **Nsandomeno/Nsandomeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
