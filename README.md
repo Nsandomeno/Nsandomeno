@@ -1,11 +1,9 @@
 ### 📫 Email me about Bitcoin, Lightning Network, or Nostr @ nicholas.sandomeno@gmail.com 
 ⚠️ Personal site coming soon ⚠️
 
-Twitter: [ @NickSandomeno
-](https://twitter.com/NickSandomeno)
+[ Twitter ](https://twitter.com/NickSandomeno)
 
-Linkedin: [ here
-](https://www.linkedin.com/in/nicholas-sandomeno-5858b5125/)\n
+[ LinkedIn ](https://www.linkedin.com/in/nicholas-sandomeno-5858b5125/)
 
 
 <!--
