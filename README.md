@@ -3,7 +3,6 @@
 
 📫 Email me about Bitcoin, Lightning Network, or Nostr @ nicholas.sandomeno@gmail.com 
 
-
 ⚠️ Personal site coming soon ⚠️
 
 ---
