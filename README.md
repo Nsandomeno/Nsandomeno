@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+⚠️ Personal site coming soon ⚠️
+Twitter:
+Linkedin:
+
+Email me about Bitcoin, Lightning Network, or Nostr @ nicholas.sandomeno@gmail.com
 <!--
 **Nsandomeno/Nsandomeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
