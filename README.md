@@ -1,4 +1,4 @@
-### "Everything around you that you call life was made up by people that were no smarter than you, and you can change it, you can influence it, you can build your own things that other people can use.”
+### "Everything around you that you call life was made up by people that were no smarter than you, and you can change it, you can influence it, you can build your own things that other people can use.” - Steve Jobs
 ---
 
 📫 Email me about Bitcoin, Lightning Network, or Nostr @ nicholas.sandomeno@gmail.com 
