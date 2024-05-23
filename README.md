@@ -5,12 +5,6 @@
 
 ---
 
-### Socials
-
-[ Twitter ](https://twitter.com/NickSandomeno)
-
-[ LinkedIn ](https://www.linkedin.com/in/nicholas-sandomeno-5858b5125/)
-
 ---
 
 <!--
